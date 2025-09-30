@@ -1,0 +1,7 @@
+fal-client
+google-genai
+aiohttp
+requests
+Pillow
+ffmpeg-python
+tqdm
